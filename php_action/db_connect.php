@@ -2,7 +2,7 @@
 
 $localhost = "localhost";
 $username = "root";
-$password = "";
+$password = "QvcPeru23$";
 $dbname = "farmacia";
 $store_url = "http://localhost/farmacia/";
 // db connection
